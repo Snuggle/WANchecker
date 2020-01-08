@@ -3,4 +3,4 @@ Pre-requisites
 
 install speedtest-cli first
 
-apt install speedtest-cli
+`apt install speedtest-cli`
