@@ -1,0 +1,9 @@
+[Unit]
+Description=Issy has a custom pinging service
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/run.sh
+
+[Install]
+WantedBy=multi-user.target
